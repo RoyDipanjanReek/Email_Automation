@@ -1,0 +1,22 @@
+{
+  "name": "hitl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dipanjan Roy",
+  "license": "ISC",
+  "description": "I am going to build a ai agent to automate refund system.",
+  "dependencies": {
+    "@langchain/core": "^1.0.2",
+    "@langchain/groq": "^1.0.0",
+    "@langchain/langgraph": "^1.0.1",
+    "dotenv": "^17.2.3",
+    "groq-sdk": "^0.34.0",
+    "langchain": "^1.0.2",
+    "zod": "^4.1.12"
+  }
+}
